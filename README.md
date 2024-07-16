@@ -3,8 +3,8 @@ Homework 1: CV, Surgical Applications.
 
 The YOLO custom model performs object detection for specific tools in surgeries and was built using semi-supervised learning methods.  
 
-
-![Alt Text](https://drive.google.com/uc?export=view&id=1nI4oVHIg_r1Ltwg9_iRD58pLQd6fzhnT)
+https://drive.google.com/file/d/1nI4oVHIg_r1Ltwg9_iRD58pLQd6fzhnT/view?usp=sharing
+![Picture](https://drive.google.com/uc?export=view&id=1nI4oVHIg_r1Ltwg9_iRD58pLQd6fzhnT) 
 
 The packages that were used are:
 os, ultralytics, cv2
