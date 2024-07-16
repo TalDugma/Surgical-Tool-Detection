@@ -4,8 +4,7 @@ Homework 1: CV, Surgical Applications.
 The YOLO custom model performs object detection for specific tools in surgeries and was built using semi-supervised learning methods.  
 To use video.py (runs predictions on a video) or predict.py (runs predictions on an image), select the desired configurations using configurations.py. 
 
-![Sample Image](https://drive.google.com/uc?export=view&id=1nI4oVHIg_r1Ltwg9_iRD58pLQd6fzhnT)
-
+![Sample Image](https://drive.google.com/uc?export=view&id=125l4j6uTtFOt_ujRpoi4U_XjD0_L2FSG)
 The packages that were used are:
 os, ultralytics, cv2
 
